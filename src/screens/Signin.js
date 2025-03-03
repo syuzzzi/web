@@ -27,7 +27,7 @@ const SigninWithEmail = () => {
       <Input placeholder="이메일" />
       <Input placeholder="비밀번호" secureTextEntry />
       <Button
-        title="로그인"
+        title="로그인하기"
         onPress={() => console.log("로그인 버튼 클릭됨")}
       />
     </Container>
